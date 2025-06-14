@@ -1,7 +1,7 @@
 
 # Hola, Soy Carlos! 
-
 ![Texto alternativo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg4dmwxMTNsOTJyZnpxczdrZjltM291MGNiZnV5dWs1OTBvYnR3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
 ![](https://img.shields.io/badge/Carlos%20Antonio%20%20Garcia%20Leal-6632a8)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cargarcia085@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garciacarlos20/)
