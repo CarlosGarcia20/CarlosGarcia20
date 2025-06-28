@@ -9,7 +9,7 @@
 
 
 * Soy un estudiante de Ingeniería en Software en mi último semestre ⚙️🖋️
-* Soy de Sinaloa, México - Soy de Sinaloa, México 🇲🇽
+* Soy de Sinaloa, México 🇲🇽
 
 * Techstacks: `.js`, `.html`, `.php`
 
